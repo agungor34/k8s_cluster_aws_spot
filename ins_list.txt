@@ -1,0 +1,9 @@
+m4.large
+m5.large  
+m5a.large 
+m6a.large 
+m7a.large 
+t2.large  
+t3.large  
+t3a.large 
+t4g.large 
